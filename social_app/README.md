@@ -1,6 +1,7 @@
 # social_app
 
-A new Flutter project.
+Application which social media are interactive technologies that allow create posts or sharing your
+images, ideas, interests with friends.
 
 ## Getting Started
 
